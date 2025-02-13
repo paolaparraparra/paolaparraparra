@@ -65,7 +65,7 @@ On GitHub I share my achievements, challenges and progress.
 <div align="center">
   
 [![](https://github-readme-stats.vercel.app/api?username=paolaparraparra&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/paolaparraparra)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=paolaparraparra&theme=material-palenight)](https://github.com/paolaparraparra)
+![PaolaAlejandra's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolaparraparra&theme=tokyonight&layout=compact)
 </div>
 
 <h4 align="center">Thank you for visiting my profile 🌸</h4>
