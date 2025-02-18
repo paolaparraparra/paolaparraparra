@@ -15,7 +15,6 @@ Hi, I'm Paola Parra!
 - 🌸Currently, I am involved in competitive programming, I have a great interest in robotics and I enjoy building simple circuits.
 - 🌸My goal is to expand my knowledge in these areas and develop projects that combine my love for programming and engineering.
 - 🌸Outside of programming, I enjoy writing, drawing and reading about science, always looking for new ways to learn, grow and create. 
-On GitHub I share my achievements, challenges and progress.
 <hr>
   
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;***Technology Stack***
@@ -50,13 +49,9 @@ On GitHub I share my achievements, challenges and progress.
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   <a href="mailto:paolaalejandraparrap@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://x.com/ronralov">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   <a href="https://discord.com/users/m_moritaa2705#1184">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://cl.pinterest.com/hoossh_i/">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
     
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;***Github Stats***
 <p align="left">
