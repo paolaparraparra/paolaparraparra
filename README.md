@@ -45,7 +45,7 @@ Hi, I'm Paola Parra!
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;***Connect With Me***
 <p align="left">
-  <a href="https://www.instagram.com/hoossh_i/">
+  <a href="https://www.instagram.com/nnneeroo/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   <a href="mailto:paolaalejandraparrap@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
