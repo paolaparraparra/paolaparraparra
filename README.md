@@ -12,7 +12,6 @@ Hi, I'm Paola Parra!
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;***About me***
 
 - 🌸I'm a student of Computer Engineering. Although I am just starting my career, I strive every day to improve my skills.
-- 🌸Currently, I am involved in competitive programming, I have a great interest in robotics and I enjoy building simple circuits.
 - 🌸My goal is to expand my knowledge in these areas and develop projects that combine my love for programming and engineering.
 - 🌸Outside of programming, I enjoy writing, drawing and reading about science, always looking for new ways to learn, grow and create. 
 <hr>
